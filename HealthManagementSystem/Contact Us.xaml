@@ -1,0 +1,14 @@
+﻿<Window x:Class="HealthManagementSystem.Contact_Us"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HealthManagementSystem"
+        mc:Ignorable="d"
+        Title="Contact_Us" Height="450" Width="800">
+    <Grid>
+        <Image x:Name="image" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\hospital-management-23-638.jpg" HorizontalAlignment="Left" Height="422" VerticalAlignment="Top" Width="795" Stretch="Fill"/>
+        <Button x:Name="button" Content="Back" HorizontalAlignment="Left" Margin="642,379,0,0" VerticalAlignment="Top" Width="81" RenderTransformOrigin="0.708,1.856" Click="button_Click" Height="30" BorderBrush="#FF2F39BF" Background="White"/>
+
+    </Grid>
+</Window>

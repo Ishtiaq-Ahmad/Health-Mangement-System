@@ -1,0 +1,48 @@
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\bin\Debug\HealthManagementSystem.exe.config
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\bin\Debug\HealthManagementSystem.exe
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\bin\Debug\HealthManagementSystem.pdb
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\bin\Debug\MaterialSkin.dll
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\HealthManagementSystem.csprojAssemblyReference.cache
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\MainWindow.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\App.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\HealthManagementSystem_MarkupCompile.cache
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\HealthManagementSystem_MarkupCompile.lref
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\MainWindow.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\HealthManagementSystem.g.resources
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\HealthManagementSystem.Properties.Resources.resources
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\HealthManagementSystem.csproj.GenerateResource.cache
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\HealthManagementSystem.csproj.CopyComplete
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\HealthManagementSystem.exe
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\HealthManagementSystem.pdb
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\AdminManage.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\AdminManage.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\AdminLogin1.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\AdminLogin1.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Add Doctor.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Add Doctor.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Employee List.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Employee List.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Add Patient.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Add Patient.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Manage Patientxaml.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Manage Patientxaml.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Patient_History.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Patient_History.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Surgery.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Surgery.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Patient Surgery List.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Patient Surgery List.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\PatientDetail.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\PatientDetail.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Doctor Module.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Doctor Module.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\DoctorLogin.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\DoctorLogin.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\NurseModule.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\NurseModule.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Prescription.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Prescription.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Contact Us.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\Contact Us.baml
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\aboutus.g.cs
+E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\obj\Debug\aboutus.baml

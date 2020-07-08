@@ -1,0 +1,32 @@
+﻿<Window x:Class="HealthManagementSystem.Patient_History"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HealthManagementSystem"
+        mc:Ignorable="d"
+       Title="Patient List" Height="450" Width="800">
+    <Grid Height="422" VerticalAlignment="Top">
+
+        <DataGrid x:Name="dataGridPatientList" HorizontalAlignment="Left" Height="237" Margin="223,130,0,0" VerticalAlignment="Top" Width="558" BorderThickness="2" Background="#FFBFB7B7"/>
+        <TextBox x:Name="textBoxEmployeeSearch"  HorizontalAlignment="Left" FontSize="18" Height="24" Margin="604,94,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="169" TextChanged="textChangedSearch"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\icons8-google-web-search-512.png" Height="37" Margin="566,88,0,0" VerticalAlignment="Top" Width="50"/>
+        <Button x:Name="buttonShowAllEmployee" FontSize="20" Click="buttonShowAllEmployee_Click"  Content="Patient List" HorizontalAlignment="Left" Margin="10,130,0,0" VerticalAlignment="Top" Width="190" Height="42" Background="#FF50B589" BorderThickness="2,2,2,1" RenderTransformOrigin="1.006,1.097"/>
+        <Button x:Name="buttonback"  Content="Back" Click="buttonback_Click" FontSize="20" HorizontalAlignment="Left" Margin="673,378,0,8" Width="104" BorderThickness="2" Foreground="#FF121010" FontWeight="Bold" RenderTransformOrigin="1.221,0.071">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFFEFFFD" Offset="1"/>
+                    <GradientStop Color="#FFD0D1CF" Offset="0.255"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Image x:Name="imageback" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\back.png" HorizontalAlignment="Left" Height="34" Margin="749,384,0,0" VerticalAlignment="Top" Width="24"/>
+        <Label x:Name="label" Content="Hospital Management System" HorizontalAlignment="Left" Margin="223,10,0,0" VerticalAlignment="Top" FontFamily="Script MT Bold" FontSize="36" FontWeight="Bold" Foreground="#FF0F9B7E" />
+        <Image x:Name="image1" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\iconfinder_Nurse-1_379345.png" HorizontalAlignment="Left" Height="81" Margin="133,1,0,0" VerticalAlignment="Top" Width="135"/>
+        <Button x:Name="buttonAddPatient" FontSize="20" Click="buttonAddPatient_Click" Content="Add Patient" HorizontalAlignment="Left" Margin="10,177,0,0" VerticalAlignment="Top" Width="190" Height="42" Background="#FF50B589" BorderThickness="2,2,2,1" RenderTransformOrigin="1.006,1.097"/>
+        <Button x:Name="buttonManagepatient" FontSize="20"  Click="buttonManagepatient_Click" Content="Manage Patient" HorizontalAlignment="Left" Margin="10,224,0,0" VerticalAlignment="Top" Width="190" Height="42" Background="#FF50B589" BorderThickness="2,2,2,1" RenderTransformOrigin="1.006,1.097"/>
+        <Button x:Name="buttonSurgicalPatient" FontSize="20" Click="buttonSurgicalPatient_Click" Content="Surgical Patient" HorizontalAlignment="Left" Margin="10,271,0,0" VerticalAlignment="Top" Width="190" Height="42" Background="#FF50B589" BorderThickness="2,2,2,1" RenderTransformOrigin="1.006,1.097"/>
+        <Button x:Name="buttonSurgicalPatientList" FontSize="20" Click="buttonSurgicalPatientList_Click" Content="Surgical Patient List" HorizontalAlignment="Left" Margin="10,325,0,0" VerticalAlignment="Top" Width="190" Height="42" Background="#FF50B589" BorderThickness="2,2,2,1" RenderTransformOrigin="1.006,1.097"/>
+    </Grid>
+</Window>

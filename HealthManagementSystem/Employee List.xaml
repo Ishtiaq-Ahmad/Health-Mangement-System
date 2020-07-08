@@ -1,0 +1,22 @@
+﻿<Window x:Class="HealthManagementSystem.Employee_List"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HealthManagementSystem"
+        mc:Ignorable="d"
+        Title="Employee_List" Height="450" Width="800">
+    <Grid Height="422" VerticalAlignment="Top">
+        <DataGrid x:Name="dataGridEmployeeList" HorizontalAlignment="Left" Height="317" Margin="10,42,0,0" VerticalAlignment="Top" Width="775" BorderThickness="2"/>
+        <TextBox x:Name="textBoxEmployeeSearch"  HorizontalAlignment="Left" FontSize="18" Height="24" Margin="635,6,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="136" TextChanged="textSearch"/>
+        <Image x:Name="image" HorizontalAlignment="Left" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\icons8-google-web-search-512.png" Height="37" Margin="597,0,0,0" VerticalAlignment="Top" Width="50"/>
+        <Button x:Name="buttonShowAllEmployee" FontSize="20" Click="buttonShowAllEmployee_Click" Content="Employee List" HorizontalAlignment="Left" Margin="13,371,0,0" VerticalAlignment="Top" Width="179" Height="42" Background="#FF50B589" BorderThickness="2,2,2,1"/>
+        <Button x:Name="buttonUpdate" Click="buttonUpdate_Click" Content="Update" FontSize="20" HorizontalAlignment="Left" Margin="280,371,0,0" VerticalAlignment="Top" Width="147" Height="42" Background="White" BorderThickness="2" FontWeight="Bold" Foreground="#FF8E902F" RenderTransformOrigin="0.003,0.381"/>
+        <Button x:Name="buttonDelete" Click="buttonDelete_Click" Content="Delete" FontSize="20" HorizontalAlignment="Left" Margin="458,370,0,10" Width="147" Background="White" BorderThickness="2" Foreground="#FFF31313" FontWeight="Bold"/>
+        <Button x:Name="buttonback" Click="buttonback_Click" Content="Back" FontSize="20" HorizontalAlignment="Left" Margin="634,370,0,10" Width="147" Background="White" BorderThickness="2" Foreground="#FF121010" FontWeight="Bold" RenderTransformOrigin="1.221,0.071"/>
+        <Image x:Name="imageUpdate" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\arrows.png" HorizontalAlignment="Left" Height="50" Margin="388,373,0,-1" VerticalAlignment="Top" Width="37"/>
+        <Image x:Name="imagedelete" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\interface.png" HorizontalAlignment="Left" Height="36" Margin="563,372,0,0" VerticalAlignment="Top" Width="42"/>
+        <Image x:Name="imageback" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\back.png" HorizontalAlignment="Left" Height="29" Margin="735,375,0,0" VerticalAlignment="Top" Width="42"/>
+
+    </Grid>
+</Window>

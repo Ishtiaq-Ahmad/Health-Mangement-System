@@ -1,0 +1,18 @@
+﻿<Window x:Class="HealthManagementSystem.Patient_Surgery_List"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HealthManagementSystem"
+        mc:Ignorable="d"
+        Title="Patient_Surgery_List" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dataGridSurgicalPatientList" HorizontalAlignment="Left" Height="317" Margin="10,42,0,0" VerticalAlignment="Top" Width="775" BorderThickness="2" Background="#FFBFB7B7" FontSize="15"/>
+        <TextBox x:Name="textBoxEmployeeSearch"  HorizontalAlignment="Left" FontSize="18" Height="24" Margin="635,6,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="136" TextChanged="textBoxEmployeeSearch_TextChanged" />
+        <Image x:Name="image" HorizontalAlignment="Left" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\icons8-google-web-search-512.png" Height="37" Margin="597,0,0,0" VerticalAlignment="Top" Width="50"/>
+        <Button x:Name="buttonSurgeryList" FontSize="20"  Content="Surgical Patient List" Click="buttonSurgeryList_Click" HorizontalAlignment="Left" Margin="10,373,0,0" VerticalAlignment="Top" Width="197" Height="42" Background="#FF50B589" BorderThickness="2,2,2,1"/>
+        <Button x:Name="buttonback"  Content="Back" Click="buttonback_Click" FontSize="20" HorizontalAlignment="Left" Margin="634,372,0,8" Width="147" Background="White" BorderThickness="2" Foreground="#FF121010" FontWeight="Bold" RenderTransformOrigin="1.221,0.071"/>
+        <Image x:Name="imageback" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\back.png" HorizontalAlignment="Left" Height="29" Margin="735,377,0,0" VerticalAlignment="Top" Width="42"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,32 @@
+﻿<Window x:Class="HealthManagementSystem.DoctorLogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HealthManagementSystem"
+        mc:Ignorable="d"
+            Title="AdminLogin1" Height="450" Width="800">
+    <Grid Background="#FF1D3854">
+        <Border Background="White" CornerRadius="0" Margin="201,8,198,12.5">
+            <Image x:Name="image4"/>
+        </Border>
+        <Image x:Name="image" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\iconfinder_9_375256.png" HorizontalAlignment="Left" Height="100" Margin="254,18,0,0" VerticalAlignment="Top" Width="100"/>
+        <Label x:Name="label" Content="Doctor Login" HorizontalAlignment="Left" Margin="357,40,0,0"  VerticalAlignment="Top" RenderTransformOrigin="0.456,-1.781" FontSize="27" FontFamily="Yu Gothic UI Semibold" Width="169" Foreground="#FF1E8671" FontWeight="Bold"/>
+        <Label x:Name="labelUsername" Content="Username" FontSize="20" HorizontalAlignment="Left" Margin="264,127,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBoxUsername" FontSize="20"  HorizontalAlignment="Left" Height="28" Margin="319,181,0,0" TextWrapping="Wrap" Text=""  VerticalAlignment="Top" Width="207" BorderBrush="#FFFDFDFF" CaretBrush="Black" BorderThickness="0"/>
+        <Label x:Name="labelPassword" Content="Password" FontSize="20" HorizontalAlignment="Left" Margin="268,232,0,0" VerticalAlignment="Top"/>
+        <PasswordBox x:Name="passwordBox" FontSize="20"  HorizontalAlignment="Left" Margin="319,282,0,0" VerticalAlignment="Top" Width="192" RenderTransformOrigin="0.539,0.3" BorderBrush="White" BorderThickness="0"/>
+        <Button x:Name="buttonLogin" Content="Login" Click="buttonLogin_Click" FontSize="20" HorizontalAlignment="Left" Margin="268,346,0,0" VerticalAlignment="Top" Width="127" Height="42" Background="White" BorderThickness="2"/>
+        <Rectangle  HorizontalAlignment="Left"  Height="50" Margin="264,170,0,0" Stroke="Black" VerticalAlignment="Top" Width="262" RadiusX="6" RadiusY="6" StrokeThickness="2"/>
+        <Image x:Name="image1" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\icons8-user-80.png" HorizontalAlignment="Left" Height="47" Margin="268,173,0,0" VerticalAlignment="Top" Width="44"/>
+        <Rectangle HorizontalAlignment="Left" Height="1" Margin="319,207,0,0" Stroke="Black" VerticalAlignment="Top" Width="192"/>
+        <Rectangle  HorizontalAlignment="Left"  Height="50" Margin="264,272,0,0" Stroke="Black" VerticalAlignment="Top" Width="262" RadiusX="6" RadiusY="6" StrokeThickness="2"/>
+        <Rectangle HorizontalAlignment="Left" Height="1" Margin="319,309,0,0" Stroke="Black" VerticalAlignment="Top" Width="192"/>
+        <Image x:Name="image2" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\icons8-key-64.png" HorizontalAlignment="Left" Height="48" Margin="266,274,0,0" VerticalAlignment="Top" Width="42"/>
+        <Image x:Name="image3" Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\icons8-padlock-96.png"  HorizontalAlignment="Left" Height="42" Margin="357,348,0,0" VerticalAlignment="Top" Width="36"/>
+        <Button x:Name="buttonexit" Click="buttonexit_Click" FontSize="20" HorizontalAlignment="Left" Margin="423,348,0,0" VerticalAlignment="Top" Width="104" Height="42" Background="White" BorderThickness="2">
+            <Image x:Name="image5"  Source="E:\University\8th Semester\Visiual Programing Language\Project\HealthManagementSystem\HealthManagementSystem\images\back.png" Height="32" Width="100"/>
+        </Button>
+
+    </Grid>
+</Window>
